@@ -10,3 +10,14 @@ This is my journal of the design and building process of **Mechanical gear clock
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/522).
 
 
+## 10/15/2025 - Mechanical Clock Project -- Brain storming  
+
+Today I spent time brainstorming the concept for my stepper-driven mechanical gear clock. I sketched out initial ideas for the gear layout, motor placement, and overall design. I also explored how to integrate the stepper motor with the gears for precise movement and considered materials for laser cutting. It was mostly planning and idea exploration, setting a solid foundation for the build ahead.
+
+Summary in a few words: Brainstorming, gear layout planning, and stepper motor integration ideas.
+
+
+
+![Capture d'écran 2025-10-15 114816.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--cb066a42180757c35d072d8932cc6b5e895ea19a/Capture%20d'%C3%A9cran%202025-10-15%20114816.png)
+  
+
