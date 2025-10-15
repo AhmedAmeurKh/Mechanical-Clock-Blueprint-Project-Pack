@@ -2,7 +2,7 @@
 Stepper-driven laser-cut mechanical gear clock with LEDs
 ---
 Overview & Goals
-Build a medium (35–40 cm) laser-cut wall clock with visible gears driven by 28BYJ-48 stepper motors. The goal is to achieve a polished mechanical design with LEDs, featuring accurate timekeeping using a DS1302 RTC.
+Build a medium-sized 40cm laser-cut wall clock with visible gears driven by 28BYJ-48 stepper motors. The goal is to achieve a polished mechanical design with LEDs, featuring accurate timekeeping using a DS1302 RTC.
 Learn how to use GitHub and Fusion 360.
 ---
 Features
