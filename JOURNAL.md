@@ -21,3 +21,17 @@ Summary in a few words: Brainstorming, gear layout planning, and stepper motor i
 ![Capture d'écran 2025-10-15 114816.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--cb066a42180757c35d072d8932cc6b5e895ea19a/Capture%20d'%C3%A9cran%202025-10-15%20114816.png)
   
 
+## 10/16/2025 - Received RTC battery and stepper drivers, ready for setup.  
+
+Today was all about brainstorming and nailing down the setup. I collected the last hardware (RTC battery and stepper drivers) and used the time to digest feedback from friends on gear arrangement. They gave useful suggestions for gear ratios and mounting, which helped clarify spacing and load concerns.
+
+I’m still deciding which board to use — Arduino Uno/Nano or ESP32. The ESP32’s Wi-Fi is attractive because I want to build a custom control app for the lights and stepper, but I’m weighing simplicity and available I/O versus connectivity.
+
+One friend suggested using a DC motor, but I don’t feel comfortable going that route for precise timekeeping. I’m leaning toward simplifying the design: drop the seconds hand and drive the stepper with one-step-per-second updates for reliable, quiet motion and easier gear ratios. 
+Next steps: finalize the microcontroller choice and translate the gear feedback into a concrete layout for the laser-cut plates.
+
+I also switched from Fusion 360 to SolidWorks, so tutorial hell, I guess.
+![Capture d'écran 2025-10-16 200829.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--04fa7ebcd203d6df4cd7c343e7819880c75cce94/Capture%20d'%C3%A9cran%202025-10-16%20200829.png)
+
+  
+
